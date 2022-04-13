@@ -28,11 +28,7 @@
 - Service and service types
   - [Creating a service for application and accessing it](./content/services.md)
 
-- Basic operations
-  - [CI/CD basics](./content/ci_cd.md)
-  - [Helm](./content/helm.md)
-  - [Monitoring and logging architecture in Kubernetes](./content/monitoring_logging.md)
-  - [Introduction to tools for monitoring and logging](./content/monitoring_tools.md)
-
 - Where to go from here
   - [References, links, DIY workshops etc.](./content/references.md)
+
+**Note:**: Current workshop was taken from GitHub page of [infracloud.io](https://github.com/infracloudio/kubernetes-101-workshop)

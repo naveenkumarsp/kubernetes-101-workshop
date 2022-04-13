@@ -31,4 +31,4 @@
 - Where to go from here
   - [References, links, DIY workshops etc.](./content/references.md)
 
-**Note:**: Current workshop was taken from GitHub page of [infracloud.io](https://github.com/infracloudio/kubernetes-101-workshop)
+**Note:**: Current workshop was taken from GitHub page of [infracloud.io](https://github.com/infracloudio/kubernetes-101-workshop) 
